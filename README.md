@@ -1,2 +1,2 @@
-# cs344_project
-Project for CS344-AI
+# CS344 - Project
+Song Recommender
